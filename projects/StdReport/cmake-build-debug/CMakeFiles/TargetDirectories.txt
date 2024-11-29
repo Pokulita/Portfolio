@@ -1,0 +1,3 @@
+D:/Uni/portfolio/projects/StdReport/cmake-build-debug/CMakeFiles/StdReport.dir
+D:/Uni/portfolio/projects/StdReport/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Uni/portfolio/projects/StdReport/cmake-build-debug/CMakeFiles/rebuild_cache.dir
